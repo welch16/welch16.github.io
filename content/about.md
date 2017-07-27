@@ -3,7 +3,7 @@ date = "2017-07-26"
 title = "About"
 +++
 
-Hello, my name is Rene Welch and I am a Ph.D. student at the deparment of Statistics at UW - Madison. My research/work has been focused into developing computational tools to better understand sequencing data.  
+Hello, my name is Rene Welch and I am a Ph.D. candidate at the deparment of Statistics at UW - Madison. My research/work has been focused into developing computational tools to better understand sequencing data.  
 
 My research interests are:
 
